@@ -1,0 +1,5 @@
+Section, Question ID, Question type, Question content, Possible answers, Required?,Answer scores,Question weight,Conditional questions
+Misc,Q 2.3,Single-select with explanation,Favorite pet?,"Fish,Bird,Lizard,Dog,Cat,Hamster,Rabbit,Other",No,,,
+Misc,Q 2.4,Single-select,Best off grid power solution,"Solar,Wind,Hydro,Geothermal,Nuclear,Other",No,,,"Solar:Q 2.3, Hydro:Q 2.5"
+Misc,Q 2.5,Open text,Closing remarks,,No,,,
+Misc,Q 2.6,Multi-select,"Testing various characters (!@#$%^&*()_+{}|:”<>?~`-=[]\;’,./)","Does this work?, (!@#$%^&*()_+{}|:”<>?~`-=[]\;’./)",No,"0,1",20,
